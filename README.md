@@ -1,4 +1,5 @@
-# Assignment-3: Advance Maths
+
+Advance Maths
 
 ## Overview
 This project is an implementation of a Roll-Number-Parameterized Non-Linear Model to learn Probability Density Functions (PDF). The assignment involves transforming air quality data (`NO2` levels) using a unique student identifier (Roll Number) and estimating the parameters of a specific Gaussian-based density function.
@@ -64,7 +65,7 @@ The project requires **Python 3.x** and the following scientific computing libra
     Execute the Python script to perform the transformation and parameter learning.
 
     ```bash
-    advance.py
+    DS_Statistics_A2.ipynb
     ```
 
 ## Results
