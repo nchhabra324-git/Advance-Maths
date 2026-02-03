@@ -1,5 +1,5 @@
 
-Advance Maths
+# Advance Maths
 
 ## Overview
 This project is an implementation of a Roll-Number-Parameterized Non-Linear Model to learn Probability Density Functions (PDF). The assignment involves transforming air quality data (`NO2` levels) using a unique student identifier (Roll Number) and estimating the parameters of a specific Gaussian-based density function.
